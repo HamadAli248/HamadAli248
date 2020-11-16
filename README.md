@@ -2,7 +2,7 @@
 
 [Portfolio Website](https://hamadali248.github.io/portfolio/)
 
-🌱 I’m currently learning ... Full Stack Development
+🌱 I’m currently learning ... Javascript || Kotlin
 
 📫 How to reach me: [Email](mailto:hammadali248@gmail.com)
 
