@@ -1,6 +1,6 @@
 ### Hamad Ali 👋
 
-[Portfolio Website](https://hamadali248.github.io/portfolio/)
+[Portfolio Website](https://www.hamadali.co.uk/)
 
 🌱 I’m currently learning:  Javascript | Kotlin
 
